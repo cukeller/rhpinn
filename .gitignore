@@ -1,0 +1,14 @@
+# ignore all trained neural networks
+*.keras
+Opacity/*.keras
+
+# ignore all images
+*.png
+*.pdf
+
+# ignore image directories
+imag_*
+
+# ignore python cache
+__pycache__/*
+
