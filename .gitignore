@@ -12,3 +12,6 @@ imag_*
 # ignore python cache
 __pycache__/*
 
+# ignore macos stuff
+.DS_Store
+
