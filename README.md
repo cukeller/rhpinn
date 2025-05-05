@@ -225,28 +225,6 @@ In the second training step, we start with the PINN trained on a coarse grid and
     python rhmod.py -m imag_bifrost -i rhmod_s2.keras -o rhmod_s1.keras -b 102400 -l 0.00002 -e 20
 
 
-## Figures in paper
-
-The table below shows the python codes and the resulting figure file name for each figure in the paper.
-
-| Figure Number | Command | File Name |
-| --- | --- | --- |
-| 1a | `fig_RosselandNN.py` | |
-| 1b | `fig_OpacityNN.py` | |
-| 2  | `fig_qrad.py` | |
-| 3  |   |  |
-| 4  |   |  |
-| 5  |   |  |
-| 6  |   |  |
-| 7  |   |  |
-| 8  |   |  |
-| 9  |   |  |
-| 10 |   |  |
-| 11 |   |  |
-| 12 |   |  |
-| 13 |   |  |
-
-
 ## Citing
 
 If you use parts or all of the code in this repository in their original or modified forms for your own research, please cite Keller (2025).
