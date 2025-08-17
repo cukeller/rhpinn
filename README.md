@@ -229,7 +229,26 @@ In the second training step, we start with the PINN trained on a coarse grid and
 
 If you use parts or all of the code in this repository in their original or modified forms for your own research, please cite Keller (2025).
 
-    BibTex
+    @ARTICLE{2025ApJ...989...92K,
+       author = {{Keller}, Christoph U.},
+        title = "{Data-driven Radiative Hydrodynamics Simulations of the Solar Photosphere Using Physics-informed Neural Networks: Proof of Concept}",
+      journal = {\apj},
+     keywords = {Solar physics, Hydrodynamical simulations, Astronomy data reduction, Neural networks, 1476, 767, 1861, 1933, Solar and Stellar Astrophysics},
+         year = 2025,
+        month = aug,
+       volume = {989},
+       number = {1},
+          eid = {92},
+        pages = {92},
+          doi = {10.3847/1538-4357/add6a9},
+    archivePrefix = {arXiv},
+       eprint = {2505.04865},
+    primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...989...92K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
+
+
 
 
 ## Contributions
