@@ -1,6 +1,6 @@
 # rhpinn: Radiative Hydrodynamics Physics Informed Neural Network
 
-This repository contains the Python code to reproduce the results in the Keller (2025) paper that can be found here, **add link**.
+This repository contains the Python code to reproduce the results in the Keller (2025) paper that can be found [here](https://iopscience.iop.org/article/10.3847/1538-4357/add6a9/meta).
 
 ## Requirements
 
